@@ -1,0 +1,14 @@
+/* Stile del wrapper principale */
+app-root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Aggiungiamo il margine al contenitore principale */
+  .container {
+    text-align: center;
+    margin: 20px; /* Aggiunto margine a tutti i lati */
+  }
+  
